@@ -38,7 +38,7 @@ The following steps were performed during the cleaning process:
 ## Project Structure
 
 ```text
-project-01-data-cleaning/
+project-01-data-cleaning-fatemeyousefia/
 ├── README.md
 ├── data/
 │   ├── FirstDataset.xlsx
